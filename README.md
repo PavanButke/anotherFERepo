@@ -15,4 +15,11 @@
    5. Edit
    6. Add User
 5. Matches
-6. About Us
+6. Components
+   1. checkbox
+   2. list of matches
+   3. range of matches
+   4. sort functionality
+   5. text-search
+   6. result page
+7. About Us
